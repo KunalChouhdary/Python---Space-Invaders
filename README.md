@@ -1,4 +1,4 @@
-# Python---Space-Invaders
+# Python - Space-Invaders
 
 ## INSTRUCTIONS
 Simply run the file and begin playing the classic game, space invaders.
